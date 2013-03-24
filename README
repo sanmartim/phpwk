@@ -1,1 +1,5 @@
 Biblioteca php que utiliza a wkhtmltopdf para gerar pdfs de html e css
+
+Gere pdf apartir de arquivos html
+
+Classe simples de usar
