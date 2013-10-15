@@ -8,7 +8,7 @@
  *
  * put in your css to not break tables
  * table{page-break-inside: avoid;}
- *
+ * table { display:table-row-group; display: table-row; display:table-cell;}
  * 
  * http://madalgo.au.dk/~jakobt/wkhtmltoxdoc/wkhtmltopdf_0.10.0_rc2-doc.html
  */
